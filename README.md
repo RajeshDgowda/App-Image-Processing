@@ -57,7 +57,6 @@ Linux Machine with QT5 Creator.
 Cloning The GitHub Repository
 
 ```
-git clone https://github.com/OluwaseunOjeleye/Objects-Detection-and-Classification---Line-and-Circle-Detection-App.git
+git clone https://github.com/RajeshDgowda/App-Image-Processing.git
 ```
 
-# App-Image-Processing
